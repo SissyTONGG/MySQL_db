@@ -1,7 +1,6 @@
 package MySQL_db
 
 import (
-	"fmt"
 	"os/exec"
 )
 
